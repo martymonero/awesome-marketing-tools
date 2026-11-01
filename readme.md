@@ -38,6 +38,7 @@ Improve and manage advertising campaigns across various platforms.
 - [Smartly.io](https://www.smartly.io/) - Automating and optimizing social media advertising.
 - [Optmyzr](https://www.optmyzr.com/) - Automating and managing Google Ads, Microsoft Ads, and Amazon Ads.
 - [WordStream](https://www.wordstream.com/) - PPC management and optimization for Google Ads, Facebook, and Bing.
+- [Adstudio](https://useadstudio.com/) - AI workspace for Google Ads, Meta Ads, and TikTok Ads with cross-platform reporting, an AI assistant, and a hosted MCP server.
 
 ## Email Marketing
 
@@ -65,6 +66,7 @@ Manage and analyze social media presence across multiple platforms.
 - [SocialBu](https://socialbu.com/) - AI-powered social media management, scheduling, automation, and analytics across all major platforms.
 - [OpenPost](https://openpost.social/) - Self-hosted social media scheduling for humans and AI agents.
 - [Pingroupie](https://pingroupie.com/) - Pinterest group board directory with profile analytics and pin scheduling.
+- [OpenPost](https://openpo.st/) - Self-hosted social media scheduling for humans and AI agents.
 
 ## Analytics
 
@@ -77,6 +79,7 @@ Analyze and visualize marketing data.
 - [Looker](https://looker.com/) - Business intelligence and big data analytics.
 - [Tableau](https://www.tableau.com/) - Data visualization and business intelligence.
 - [FullSession](https://www.fullsession.io/) - Session replay and user behavior analytics for websites.
+- [Better Analyst](https://betteranalyst.com/) - AI data analyst that connects GA4, Sheets, SQL and BigQuery, answers questions in plain English with the SQL/Python shown, and builds dashboards and scheduled reports.
 
 ## SEO
 
@@ -114,6 +117,15 @@ Manage customer interactions and data throughout the customer lifecycle.
 
 Automate marketing processes and workflows.
 
+- [HubSpot](https://www.hubspot.com/) - Inbound marketing, sales, and service software
+- [Marketo](https://www.marketo.com/) - B2B marketing automation software
+- [Pardot](https://www.pardot.com/) - B2B marketing automation by Salesforce
+- [Autopilot](https://www.autopilothq.com/) - Visual marketing automation software
+- [Customer.io](https://customer.io/) - Automated messaging platform
+- [AutoCust](https://www.autocust.it/) - AI-powered marketing automation platform with user behavior prediction and multichannel communication
+- [Hanzi](https://github.com/hanzili/hanzi-in-chrome) - Open-source AI agent for browser-based marketing automation. LinkedIn prospecting and social posting from your real signed-in browser. Free, works with any AI coding agent
+- [Scrupp](https://scrupp.com/) - #1 Sales Navigator Scraper. Chrome extension that exports up to 2,500 leads per LinkedIn / Sales Navigator search to CSV with SMTP-verified work emails and phones. Free plan with 100 exports.
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform for email campaigns, segmentation, lead management, and customer journeys.
 - [HubSpot](https://www.hubspot.com/) - Inbound marketing, sales, and service software.
 - [Marketo](https://www.marketo.com/) - B2B marketing automation software.
 - [Marketing Cloud Account Engagement (formerly Pardot)](https://www.salesforce.com/marketing/b2b-automation/) - B2B marketing automation by Salesforce.
