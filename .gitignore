@@ -1,0 +1,5 @@
+# oh-my-claudecode (agent state — local only)
+.omc/
+
+# Claude Code project instructions (local only)
+CLAUDE.md
