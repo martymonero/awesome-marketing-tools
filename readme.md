@@ -77,6 +77,7 @@ Analyze and visualize marketing data.
 - [Looker](https://looker.com/) - Business intelligence and big data analytics.
 - [Tableau](https://www.tableau.com/) - Data visualization and business intelligence.
 - [FullSession](https://www.fullsession.io/) - Session replay and user behavior analytics for websites.
+- [Better Analyst](https://betteranalyst.com/) - AI data analyst that connects GA4, Sheets, SQL and BigQuery, answers questions in plain English with the SQL/Python shown, and builds dashboards and scheduled reports.
 
 ## SEO
 
