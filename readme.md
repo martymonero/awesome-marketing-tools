@@ -64,9 +64,8 @@ Manage and analyze social media presence across multiple platforms.
 - [Later](https://later.com/) - Visual social media planner and scheduler.
 - [Agorapulse](https://www.agorapulse.com/) - Social media management and reporting.
 - [SocialBu](https://socialbu.com/) - AI-powered social media management, scheduling, automation, and analytics across all major platforms.
-- [OpenPost](https://openpost.social/) - Self-hosted social media scheduling for humans and AI agents.
-- [Pingroupie](https://pingroupie.com/) - Pinterest group board directory with profile analytics and pin scheduling.
 - [OpenPost](https://openpo.st/) - Self-hosted social media scheduling for humans and AI agents.
+- [Pingroupie](https://pingroupie.com/) - Pinterest group board directory with profile analytics and pin scheduling.
 
 ## Analytics
 
