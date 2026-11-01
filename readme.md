@@ -115,6 +115,14 @@ Manage customer interactions and data throughout the customer lifecycle.
 
 Automate marketing processes and workflows.
 
+- [HubSpot](https://www.hubspot.com/) - Inbound marketing, sales, and service software
+- [Marketo](https://www.marketo.com/) - B2B marketing automation software
+- [Pardot](https://www.pardot.com/) - B2B marketing automation by Salesforce
+- [Autopilot](https://www.autopilothq.com/) - Visual marketing automation software
+- [Customer.io](https://customer.io/) - Automated messaging platform
+- [AutoCust](https://www.autocust.it/) - AI-powered marketing automation platform with user behavior prediction and multichannel communication
+- [Hanzi](https://github.com/hanzili/hanzi-in-chrome) - Open-source AI agent for browser-based marketing automation. LinkedIn prospecting and social posting from your real signed-in browser. Free, works with any AI coding agent
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform for email campaigns, segmentation, lead management, and customer journeys.
 - [HubSpot](https://www.hubspot.com/) - Inbound marketing, sales, and service software.
 - [Marketo](https://www.marketo.com/) - B2B marketing automation software.
 - [Marketing Cloud Account Engagement (formerly Pardot)](https://www.salesforce.com/marketing/b2b-automation/) - B2B marketing automation by Salesforce.
