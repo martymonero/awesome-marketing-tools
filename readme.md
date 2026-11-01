@@ -122,6 +122,7 @@ Automate marketing processes and workflows.
 - [Customer.io](https://customer.io/) - Automated messaging platform
 - [AutoCust](https://www.autocust.it/) - AI-powered marketing automation platform with user behavior prediction and multichannel communication
 - [Hanzi](https://github.com/hanzili/hanzi-in-chrome) - Open-source AI agent for browser-based marketing automation. LinkedIn prospecting and social posting from your real signed-in browser. Free, works with any AI coding agent
+- [Scrupp](https://scrupp.com/) - #1 Sales Navigator Scraper. Chrome extension that exports up to 2,500 leads per LinkedIn / Sales Navigator search to CSV with SMTP-verified work emails and phones. Free plan with 100 exports.
 - [Mautic](https://www.mautic.org) - Open-source marketing automation platform for email campaigns, segmentation, lead management, and customer journeys.
 - [HubSpot](https://www.hubspot.com/) - Inbound marketing, sales, and service software.
 - [Marketo](https://www.marketo.com/) - B2B marketing automation software.
